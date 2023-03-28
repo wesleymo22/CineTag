@@ -1,7 +1,6 @@
 import Inicio from "pages/Inicio"
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 
-
 function AppRoutes() {
     return (
         <BrowserRouter>

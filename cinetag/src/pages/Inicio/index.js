@@ -1,7 +1,11 @@
-    function Inicio () {
-        return(
-            <h1>Ola mundo Inicio</h1>
-        )
-    }
+import Cabecalho from "components/Cabecalho"
 
-    export default Inicio
+function Inicio() {
+    return (
+        <>
+            <Cabecalho />
+        </>
+    )
+}
+
+export default Inicio
