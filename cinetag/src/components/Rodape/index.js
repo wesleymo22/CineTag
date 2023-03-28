@@ -3,7 +3,7 @@ import styles from "./Rodape.module.css"
 function Rodape (){
     return(
         <footer className={styles.rodape}>
-            <span>Desenvolvido por Wesley</span>
+            <h2>Desenvolvido por Wesley</h2>
         </footer>
     )
 }
